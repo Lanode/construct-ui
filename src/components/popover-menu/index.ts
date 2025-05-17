@@ -1,6 +1,6 @@
 import m from 'mithril';
 import classnames from 'classnames';
-import { Classes } from '../../';
+import { Classes } from '../../_shared';
 import { IPopoverAttrs, Popover } from '../popover';
 import { IMenuAttrs, Menu } from '../menu';
 
